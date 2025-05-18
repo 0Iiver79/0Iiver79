@@ -38,7 +38,7 @@ Me chamo Gustavo Oliveira, tenho 21 anos e sou de São Paulo com foco em desenvo
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://www.linkedin.com/in/gustavo-vizis/" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/0liverg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
